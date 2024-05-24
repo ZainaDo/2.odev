@@ -1,0 +1,10 @@
+C:\Users\zaina\source\repos\2.odev2.donemNDP\2.odev2.donemNDP\bin\Debug\2.odev2.donemNDP.exe.config
+C:\Users\zaina\source\repos\2.odev2.donemNDP\2.odev2.donemNDP\bin\Debug\2.odev2.donemNDP.exe
+C:\Users\zaina\source\repos\2.odev2.donemNDP\2.odev2.donemNDP\bin\Debug\2.odev2.donemNDP.pdb
+C:\Users\zaina\source\repos\2.odev2.donemNDP\2.odev2.donemNDP\obj\Debug\2.odev2.donemNDP.csproj.AssemblyReference.cache
+C:\Users\zaina\source\repos\2.odev2.donemNDP\2.odev2.donemNDP\obj\Debug\_2.odev2.donemNDP.Form1.resources
+C:\Users\zaina\source\repos\2.odev2.donemNDP\2.odev2.donemNDP\obj\Debug\_2.odev2.donemNDP.Properties.Resources.resources
+C:\Users\zaina\source\repos\2.odev2.donemNDP\2.odev2.donemNDP\obj\Debug\2.odev2.donemNDP.csproj.GenerateResource.cache
+C:\Users\zaina\source\repos\2.odev2.donemNDP\2.odev2.donemNDP\obj\Debug\2.odev2.donemNDP.csproj.CoreCompileInputs.cache
+C:\Users\zaina\source\repos\2.odev2.donemNDP\2.odev2.donemNDP\obj\Debug\2.odev2.donemNDP.exe
+C:\Users\zaina\source\repos\2.odev2.donemNDP\2.odev2.donemNDP\obj\Debug\2.odev2.donemNDP.pdb
